@@ -5,11 +5,14 @@ h2{
     color: chocolate;
 }
 p{
-    color: crimson;
+    color: black;
     font-style: oblique;
 }
 head{
     color: darkcyan;
     font-size: larger;
     font-style: oblique;
+}
+body{
+    background-color: crimson;
 }
