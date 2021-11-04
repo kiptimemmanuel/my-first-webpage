@@ -1,0 +1,15 @@
+h1{
+    color: brown;
+}
+h2{
+    color: chocolate;
+}
+p{
+    color: crimson;
+    font-style: oblique;
+}
+head{
+    color: darkcyan;
+    font-size: larger;
+    font-style: oblique;
+}
